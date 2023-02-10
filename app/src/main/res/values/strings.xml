@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">littleLemon</string>
+    <string name="personalInfo">Personal information</string>
+    <string name="knowYou">Let\'s get to know you</string>
 </resources>
